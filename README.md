@@ -14,4 +14,4 @@ Open source software supports our mission to serve our patrons, and we support o
 ### Koha
 
 - [Custom XSLT files for the results and detail views in Koha](https://github.com/BI-Library/custom-koha-opac-xslt)
-- Customizing Self-registration form text
+- [Customizing Self-registration form text in Koha OPAC](https://github.com/BI-Library/BI-Library/wiki/Customizing-self-registration-form-field-text-in-Koha-OPAC)
