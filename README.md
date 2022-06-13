@@ -15,3 +15,4 @@ Open source software supports our mission to serve our patrons, and we support o
 
 - [Custom XSLT files for the results and detail views in Koha](https://github.com/BI-Library/custom-koha-opac-xslt)
 - [Customizing Self-registration form text in Koha OPAC](https://github.com/BI-Library/BI-Library/wiki/Customizing-self-registration-form-field-text-in-Koha-OPAC)
+- [Excluding Items without Cover from Coverflow Plugin in Koha](https://github.com/BI-Library/excluding-items-without-cover-from-coverflow)
